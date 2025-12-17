@@ -86,3 +86,4 @@ git clone https://github.com/immualifin/end4-costumized.git ~/.config/quickshell
 ## Credits
 
 - Original configuration: [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+# lazyvim-transparent
